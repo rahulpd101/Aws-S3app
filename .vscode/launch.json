@@ -1,0 +1,18 @@
+{
+    "configurations": [
+    {
+        "console": "integratedTerminal",
+        "internalConsoleOptions": "neverOpen",
+        "name": "node",
+        "program": "${workspaceFolder}/index.js",
+        "request": "launch",
+        "restart": true,
+        "runtimeExecutable": "node",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "pwa-node",
+        "envFile": "${workspaceFolder}/.env"
+    }
+    ]
+}
