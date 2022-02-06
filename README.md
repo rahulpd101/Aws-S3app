@@ -5,5 +5,5 @@ After cloning the app, create a file named as `.env` and put your AWS credential
 
 # `.env` file should contain 
   > AWS_ACCESS_KEY_ID
-  > AWS_ACCESS_KEY_ID
+  > AWS_SECRET_ACCESS_KEY
   
